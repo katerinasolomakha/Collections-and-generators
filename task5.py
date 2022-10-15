@@ -1,6 +1,3 @@
-from re import M
-
-
 N=int(input())
 pupils={}
 MARKS_COUNT=3
